@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mandeep Kar
+- 👋 Hi, I’m Mandeep Karn
 - 👀 I’m interested in Data Science, Machine Learning, AI Full Time/ Part Time Roles
 - 🌱 I’m currently learning A sales forecast project using machine learning and presenting outputs via a Streamlit app.
 -  :star: A consulting task focused on making technical outputs accessible to non-technical managers.
